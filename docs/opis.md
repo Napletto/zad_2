@@ -1,4 +1,4 @@
-setContentView - ustawia co jest głównym wyglądem ekranu i po niej dopiero działają pliki XML
+setContentView - ustawia co jest głównym wyglądem ekranu i po niej dopiero działają pliki XML<br>
 findViewById - szuka aktualnego layoutu po Id i go zwraca
 R - klasa którą Gradle generuje automatycznie przy każdym budowaniu, zawiera wszystkie Id które są w res/
 onCreate - pierwsza funkcja wywoływana przy tworzeniu lub odtwarzaniu aktywności
